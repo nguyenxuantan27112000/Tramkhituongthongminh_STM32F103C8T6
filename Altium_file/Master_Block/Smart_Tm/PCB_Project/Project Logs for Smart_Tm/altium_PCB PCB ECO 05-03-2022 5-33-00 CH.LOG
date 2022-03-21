@@ -1,0 +1,9 @@
+Added Component: Designator=SC1(Screw 3 small)
+Added Component: Designator=SC2(Screw 3 small)
+Added Component: Designator=SC3(Screw 3 small)
+Added Component: Designator=SC4(Screw 3 small)
+Added Member To Class: ClassName=alt_sche Member=Component SC1 Screw
+Added Member To Class: ClassName=alt_sche Member=Component SC2 Screw
+Added Member To Class: ClassName=alt_sche Member=Component SC3 Screw
+Added Member To Class: ClassName=alt_sche Member=Component SC4 Screw
+Added Room: Name=alt_sche

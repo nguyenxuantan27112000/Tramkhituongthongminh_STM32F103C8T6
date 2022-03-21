@@ -1,0 +1,10 @@
+blynk\cjson.o: ..\JSON\cJSON.c
+blynk\cjson.o: D:\MDK_ARM\ARM\ARMCC\Bin\..\include\string.h
+blynk\cjson.o: D:\MDK_ARM\ARM\ARMCC\Bin\..\include\stdio.h
+blynk\cjson.o: D:\MDK_ARM\ARM\ARMCC\Bin\..\include\math.h
+blynk\cjson.o: D:\MDK_ARM\ARM\ARMCC\Bin\..\include\stdlib.h
+blynk\cjson.o: D:\MDK_ARM\ARM\ARMCC\Bin\..\include\limits.h
+blynk\cjson.o: D:\MDK_ARM\ARM\ARMCC\Bin\..\include\ctype.h
+blynk\cjson.o: D:\MDK_ARM\ARM\ARMCC\Bin\..\include\float.h
+blynk\cjson.o: ..\JSON\cJSON.h
+blynk\cjson.o: D:\MDK_ARM\ARM\ARMCC\Bin\..\include\stddef.h

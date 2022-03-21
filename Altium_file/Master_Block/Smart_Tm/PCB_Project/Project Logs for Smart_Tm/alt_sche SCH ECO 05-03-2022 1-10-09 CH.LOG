@@ -1,0 +1,21 @@
+Replace Part C1 ESP8266 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with ESP8266 from Lib_Inter.IntLib
+Replace Part C2 CP1 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with CP1 from syhaunguyen.IntLib
+Replace Part C3 CP1 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with CP1 from syhaunguyen.IntLib
+Replace Part C4 CN2 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with CN2 from syhaunguyen.IntLib
+Replace Part C5 CN2 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with CN2 from syhaunguyen.IntLib
+Replace Part C6 CN2 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with CN2 from syhaunguyen.IntLib
+Replace Part C7 CN2 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with CN2 from syhaunguyen.IntLib
+Replace Part IC1 LM78xx in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with LM78xx from syhaunguyen.IntLib
+Replace Part IC2 LM78xx in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with LM78xx from syhaunguyen.IntLib
+Replace Part IC3 STM32_BLUEPILL in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with STM32_BLUEPILL from Lib_Inter.IntLib
+Replace Part IC4 LORA in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with LORA from Lib_Inter.IntLib
+Replace Part IC5 DS3231 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with DS3231 from Lib_Inter.IntLib
+Replace Part IC6 DHT11 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with DHT11 from Lib_Inter.IntLib
+Replace Part IC7 ESP8266 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with ESP8266 from Lib_Inter.IntLib
+Replace Part JDC DCIN in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with DCIN from syhaunguyen.IntLib
+Replace Part LED1 LED in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with LED from syhaunguyen.IntLib
+Replace Part P1 Header 6 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with Header 6 from Library AL.IntLib
+Replace Part P2 Header 6 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with Header 6 from Library AL.IntLib
+Replace Part P3 Header 4 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with Header 4 from Library AL.IntLib
+Replace Part P4 Header 2 in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with Header 2 from Library AL.IntLib
+Replace Part R1 R in D:\Do_An\Smart_Tm\PCB_Project\alt_sche.SchDoc with R from syhaunguyen.IntLib
